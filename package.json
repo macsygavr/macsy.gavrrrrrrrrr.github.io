@@ -1,0 +1,31 @@
+{
+  "name": "phase0-additionalTask-Bot",
+  "version": "1.0.0",
+  "description": "Создай несложный бот, используя все инструменты, которые вы изучили за фазу 0.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macsygavr/phase0-additionalTask-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macsygavr/phase0-additionalTask-Bot/issues"
+  },
+  "homepage": "https://github.com/macsygavr/phase0-additionalTask-Bot#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.24.0",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3"
+  }
+}
